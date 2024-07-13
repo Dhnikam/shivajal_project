@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1,
+        "title": "Shivjal City",
+        "img": "VNS TAWARE CITY_page-0001.jpg",
+        "status": "Under Construction",
+        "type": "House",
+        "location": "Naikbomwadi, Phaltan"
+    },
+    {
+        "id": 2,
+        "title": "VNS City",
+        "img": "VNS TAWARE CITY_page-0002.jpg",
+        "status": "Under Construction",
+        "type": "House",
+        "location": "Vandevsheri, Phaltan"
+    },
+    {
+        "id": 3,
+        "title": "Vitthal Nagari Phase 1",
+        "img": "VNS TAWARE CITY_page-0003.jpg",
+        "status": "Complete",
+        "type": "Apartment",
+        "location": "Takali, Pandharpur"
+    },
+    {
+        "id": 4,
+        "title": "Vitthal Nagari Phase 2",
+        "img": "VNS TAWARE CITY_page-0004.jpg",
+        "status": "Complete",
+        "type": "Apartment",
+        "location": "Karad Road, Pandharpur"
+    },
+    {
+        "id": 5,
+        "title": "Vitthal Nagari Phase 3",
+        "img": "VNS TAWARE CITY_page-0005.jpg",
+        "status": "Complete",
+        "type": "House",
+        "location": "Karad Road, Pandharpur"
+    },
+    {
+        "id": 6,
+        "title": "Vitthal Nagari Phase 4",
+        "img": "VNS TAWARE CITY_page-0006.jpg",
+        "status": "Under Construction",
+        "type": "Apartment",
+        "location": "Anawali, Pandharpur"
+    },
+    {
+        "id": 7,
+        "title": "Matoshree Residency - 5",
+        "img": "VNS TAWARE CITY_page-0007.jpg",
+        "status": "Complete",
+        "type": "House",
+        "location": "Manishanagar"
+    },
+    {
+        "id": 8,
+        "title": "Vitthal Nagari Phase 6",
+        "img": "VNS TAWARE CITY_page-0008.jpg",
+        "status": "Under Construction",
+        "type": "Apartment",
+        "location": "Wakhari, Pandharpur"
+    },
+    {
+        "id": 9,
+        "title": "Vitthal Nagari Phase 7",
+        "img": "VNS TAWARE CITY_page-0009.jpg",
+        "status": "Complete",
+        "type": "House",
+        "location": "Wakhari, Pandharpur"
+    },
+    {
+        "id": 10,
+        "title": "Vitthal Nagari Phase 8",
+        "img": "VNS TAWARE CITY_page-0010.jpg",
+        "status": "Under Construction",
+        "type": "Apartment",
+        "location": "Anawali, Pandharpur"
+    },
+    {
+        "id": 11,
+        "title": "Nisarg Heights",
+        "img": "VNS TAWARE CITY_page-0011.jpg",
+        "status": "Complete",
+        "type": "House",
+        "location": "Phaltan"
+    },
+    {
+        "id": 12,
+        "title": "Nisarg Swapna",
+        "img": "VNS TAWARE CITY_page-0012.jpg",
+        "status": "Under Construction",
+        "type": "Apartment",
+        "location": "Phaltan"
+    },
+    {
+        "id": 13,
+        "title": "Nisarg Park",
+        "img": "VNS TAWARE CITY_page-0013.jpg",
+        "status": "Under Construction",
+        "type": "Apartment",
+        "location": "Phaltan"
+    },
+    {
+        "id": 14,
+        "title": "Nisarg Complex Phase 1",
+        "img": "VNS TAWARE CITY_page-0014.jpg",
+        "status": "Complete",
+        "type": "Apartment",
+        "location": "Baramati"
+    },
+    {
+        "id": 15,
+        "title": "Nisarg Complex Phase 2",
+        "img": "VNS TAWARE CITY_page-0015.jpg",
+        "status": "Complete",
+        "type": "Apartment",
+        "location": "Baramati"
+    },
+    {
+        "id": 16,
+        "title": "Nisarg Deep Phase 1",
+        "img": "VNS TAWARE CITY_page-0016.jpg",
+        "status": "Under Construction",
+        "type": "Apartment",
+        "location": "Baramati"
+    },
+    {
+        "id": 17,
+        "title": "Nisarg Deep Phase 2",
+        "img": "VNS TAWARE CITY_page-0007.jpg",
+        "status": "Under Construction",
+        "type": "Apartment",
+        "location": "Baramati"
+    },
+    {
+        "id": 18,
+        "title": "Mangalmurti Park",
+        "img": "VNS TAWARE CITY_page-0007.jpg",
+        "status": "Complete",
+        "type": "Apartment",
+        "location": "Baramati"
+    },
+    {
+        "id": 19,
+        "title": "Nisarg City Phase I",
+        "img": "VNS TAWARE CITY_page-0007.jpg",
+        "status": "Complete",
+        "type": "Apartment",
+        "location": "Baramati"
+    },
+    {
+        "id": 20,
+        "title": "Nisarg City Phase II",
+        "img": "VNS TAWARE CITY_page-0007.jpg",
+        "status": "Complete",
+        "type": "Apartment",
+        "location": "Baramati"
+    },
+    {
+        "id": 21,
+        "title": "Nisarg City Phase I",
+        "img": "VNS TAWARE CITY_page-0007.jpg",
+        "status": "Complete",
+        "type": "Apartment",
+        "location": "Phaltan"
+    },
+    {
+        "id": 22,
+        "title": "Nisarg City Phase II",
+        "img": "VNS TAWARE CITY_page-0007.jpg",
+        "status": "Complete",
+        "type": "Apartment",
+        "location": "Phaltan"
+    },
+    {
+        "id": 23,
+        "title": "Jagtap City",
+        "img": "VNS TAWARE CITY_page-0007.jpg",
+        "status": "Under Construction",
+        "type": "Apartment",
+        "location": "Shardanagar, Baramati"
+    },
+    {
+        "id": 24,
+        "title": "Golden City A",
+        "img": "VNS TAWARE CITY_page-0007.jpg",
+        "status": "Complete",
+        "type": "Apartment",
+        "location": "Surawadi"
+    },
+    {
+        "id": 25,
+        "title": "Golden City B",
+        "img": "VNS TAWARE CITY_page-0007.jpg",
+        "status": "Complete",
+        "type": "Apartment",
+        "location": "Surawadi"
+    },
+    {
+        "id": 26,
+        "title": "Golden City C",
+        "img": "VNS TAWARE CITY_page-0007.jpg",
+        "status": "Complete",
+        "type": "Apartment",
+        "location": "Surawadi"
+    },
+    {
+        "id": 27,
+        "title": "Golden City D",
+        "img": "VNS TAWARE CITY_page-0007.jpg",
+        "status": "Complete",
+        "type": "Apartment",
+        "location": "Surawadi"
+    },
+    {
+        "id": 28,
+        "title": "Golden City E",
+        "img": "VNS TAWARE CITY_page-0007.jpg",
+        "status": "Complete",
+        "type": "Apartment",
+        "location": "Surawadi"
+    },
+    {
+        "id": 29,
+        "title": "Golden City F",
+        "img": "VNS TAWARE CITY_page-0007.jpg",
+        "status": "Complete",
+        "type": "Apartment",
+        "location": "Surawadi"
+    },
+    {
+        "id": 30,
+        "title": "Golden City G",
+        "img": "VNS TAWARE CITY_page-0007.jpg",
+        "status": "Complete",
+        "type": "Apartment",
+        "location": "Surawadi"
+    },
+    {
+        "id": 31,
+        "title": "Golden City H",
+        "img": "VNS TAWARE CITY_page-0007.jpg",
+        "status": "Complete",
+        "type": "Apartment",
+        "location": "Surawadi"
+    },
+    {
+        "id": 32,
+        "title": "Golden City I",
+        "img": "VNS TAWARE CITY_page-0007.jpg",
+        "status": "Complete",
+        "type": "Apartment",
+        "location": "Surawadi"
+    },
+    {
+        "id": 33,
+        "title": "Golden City J",
+        "img": "VNS TAWARE CITY_page-0007.jpg",
+        "status": "Complete",
+        "type": "Apartment",
+        "location": "Surawadi"
+    },
+    {
+        "id": 34,
+        "title": "Golden City K",
+        "img": "VNS TAWARE CITY_page-0007.jpg",
+        "status": "Complete",
+        "type": "Apartment",
+        "location": "Surawadi"
+    },
+    {
+        "id": 35,
+        "title": "Golden City L",
+        "img": "VNS TAWARE CITY_page-0007.jpg",
+        "status": "Complete",
+        "type": "Apartment",
+        "location": "Surawadi"
+    }
+]

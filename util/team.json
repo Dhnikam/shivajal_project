@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Mr. Sachin Bhosale",
+        "img": "steam-01.jpg",
+        "desig": "Founder & CEO"
+    },
+    {
+        "id": 2,
+        "title": "Ms. Ratnawali Ingale",
+        "img": "steam-02.jpg",
+        "desig": "Co-Founder "
+    },
+    {
+        "id": 3,
+        "title": "Mr. Nitin Jadhav",
+        "img": "steam-03.jpg",
+        "desig": "Head of Design"
+    },
+    {
+        "id": 4,
+        "title": "Mr. Jaydeep Patil",
+        "img": "steam-04.jpg",
+        "desig": "Project Manager"
+    },
+    {
+        "id": 5,
+        "title": "Mr. Manoj Mhetre",
+        "img": "steam-05.jpg",
+        "desig": "Marketing Director"
+    }
+]
